@@ -36,6 +36,8 @@ public class Film {
 		this.titre = aTitle;
 		this.realisateur = aDirector;
 	}
+	public Film() 
+	{}
 	
 	
 }
